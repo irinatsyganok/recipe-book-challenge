@@ -1,0 +1,10 @@
+{
+    "name" : "Lemon Chicken",
+    "image_url": "images/recipes/lemon_chicken.png",
+    "ingredients": [
+        "4 x Chicken Breasts",
+        "1 tsp Thyme",
+        "1 x Lemon"
+    ],
+    "cooking_time": "30 minutes"
+}
